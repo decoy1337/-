@@ -1,0 +1,4 @@
+product_search:
+    path: /api/product/search
+    controller: App\Controller\ProductController::search
+    methods: [GET]
